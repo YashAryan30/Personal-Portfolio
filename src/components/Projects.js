@@ -5,6 +5,7 @@ import projImg2 from "../assets/img/deepfake.png";
 import projImg3 from "../assets/img/food island.jpg";
 import projImg4 from "../assets/img/portfolio.png";
 import projImg5 from "../assets/img/chatbot.png";
+import imagify from "../assets/img/imagify.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
