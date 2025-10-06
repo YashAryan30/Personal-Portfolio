@@ -30,9 +30,16 @@ export const Projects = () => {
   // Web Development Projects
   const webProjects = [
     {
+      title: "Imagify- Text to Image Generator",
+      description: "React, TailwindCSS, MongoDB, Express JS, Node JS, Postman, Razorpay API, ClipDrop API",
+      imgUrl: imagify,
+      link: "https://github.com/YashAryan30/Imagify"
+    },
+    {
       title: "Personal Portfolio Website",
       description: "React, Bootstrap, Node JS",
       imgUrl: projImg4,
+      link:"https://github.com/YashAryan30/Personal-Portfolio/tree/main"
     },
     {
       title: "Food Recipe Island",
